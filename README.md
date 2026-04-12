@@ -11,3 +11,12 @@
 # jame-a-lga
 # Kaura
 # kubau
+# lere
+# lere
+# makarfi
+# sanga
+# Soba
+# Zangon-Kataf
+# sabon-gari
+# kaduna-south
+# kaduna-north
