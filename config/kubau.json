@@ -86,7 +86,7 @@
     "logoAlt": "Kubau LGA Logo",
     "headquarters": "Headquarters: Kubau Local Government Secretariat, Anchau, Kaduna State, Nigeria.",
     "contact": [
-      { "icon": "phone", "text": "+234" },
+      { "icon": "phone", "text": "+234 803 569 5836" },
       { "icon": "mail", "text": "info@kubaulga.gov.ng" },
       { "icon": "mapPin", "text": "Anchau, Kaduna State" }
     ],
@@ -98,6 +98,7 @@
       { "label": "Agriculture", "href": "/agriculture" },
       { "label": "News", "href": "/news" }
     ],
+    "copyright": "Kubau Local Government. All rights reserved.",
     "socialLinks": [
       { "platform": "facebook", "href": "https://www.facebook.com/p/Kubau-Local-government-area-100066954175523/" },
       { "platform": "twitter", "href": "https://twitter.com/KubauLGA" }
