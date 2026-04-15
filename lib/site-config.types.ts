@@ -165,7 +165,9 @@ export interface EconomyPageConfig {
   metadata?: { title?: string; description?: string };
   hero?: { title?: string; subtitle?: string; image?: string };
   overview?: string;
-  sectors?: { title: string; description: string; image?: string }[];
+  sectors?: {
+    subtitle: import("react/jsx-runtime").JSX.Element; title: string; description: string; image?: string 
+}[];
 }
 
 export interface NewsPageConfig {
